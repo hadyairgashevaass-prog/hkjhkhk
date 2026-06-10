@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+header{
+    background-color: #313131;
+    padding: 40px;
+    text-align: center;
+}
+main{
+    background-color: black;
+    text-align: center;
+    padding-top: 80px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+text-align: center;
+margin-bottom: 60px;
+color: #fff
+}
+a{
+    width: 97px;
+height: 24px;
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 15px;
+text-align: right;
+color: #51acff;
+text-decoration: none;
+}
+.card{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex{
+display: flex;
+justify-content: center;
+gap: 60px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    
+    gap: 30px;
+}
+footer{
+    background-color: #313131;
+}
+footer p{
+   text-align: center;
+   margin-top: 25px;
+}
